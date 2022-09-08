@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9300ac3c_64bef1f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-08T17:13:10Z",
+      "side": 1,
+      "message": "Linux version 4.9.327-00740-ge7c111f6b65b (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Sep 6 12:51:13 UTC 2022",
+      "revId": "b20e874185ecd454ec6e5d4fc4f0f2ecc262ef37",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
