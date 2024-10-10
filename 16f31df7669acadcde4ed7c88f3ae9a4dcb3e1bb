@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eab51e91_92c3d44d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-10-10T23:02:02Z",
+      "side": 1,
+      "message": "local crosshatch build worked, and prod bonito works.",
+      "revId": "16f31df7669acadcde4ed7c88f3ae9a4dcb3e1bb",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
